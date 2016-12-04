@@ -1,7 +1,9 @@
+package Practice3;
+
 import org.apache.commons.lang3.RandomStringUtils;
 
 /**
- * Created by StarKiler on 24.11.2016.
+ * Created by StarKiler on 04.12.2016.
  */
 public class PokerPlayer {
     private String username;
